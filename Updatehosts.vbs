@@ -1,3 +1,4 @@
+REM Author S VINENDRA KARTIK
 Set objFso 		= CreateObject("Scripting.FileSystemObject")
 unifiedHosts 	= ""
 whitelist		= ""
